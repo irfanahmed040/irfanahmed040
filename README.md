@@ -46,7 +46,7 @@ Artificial Intelligence Student | AI Automation Developer | LangChain & LLM Enth
 
 <img src="https://img.shields.io/badge/n8n-1E1E1E?style=for-the-badge&logo=n8n"/>
 <img src="https://img.shields.io/badge/Automation-1E1E1E?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Java-1E1E1E?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
 <img src="https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/PowerBI-1E1E1E?style=for-the-badge&logo=powerbi"/>
 
