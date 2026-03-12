@@ -74,7 +74,7 @@ Artificial Intelligence Student | AI Automation Developer | LangChain & LLM Enth
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=irfanahmed040&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=irfanahmed040&show_icons=true&theme=radical&cache_seconds=1800"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanahmed040&layout=compact&theme=radical"/>
 
