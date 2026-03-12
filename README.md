@@ -30,8 +30,6 @@
 
 ## Tech Stack
 
-## Tech Stack
-
 <p>
 
 <img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=3776AB"/>
@@ -41,21 +39,24 @@
 
 <img src="https://img.shields.io/badge/LangChain-1E1E1E?style=for-the-badge&logo=chainlink&logoColor=2A5ADA"/>
 <img src="https://img.shields.io/badge/HuggingFace-1E1E1E?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/PyTorch-1E1E1E?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/DeepLearning-1E1E1E?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/n8n-1E1E1E?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
-<img src="https://img.shields.io/badge/FastAPI-1E1E1E?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Automation-1E1E1E?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/PowerBI-1E1E1E?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+
 <img src="https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Arduino-1E1E1E?style=for-the-badge&logo=arduino&logoColor=00979D"/>
-<img src="https://img.shields.io/badge/RaspberryPi-1E1E1E?style=for-the-badge&logo=raspberrypi&logoColor=A22846"/>
+<img src="https://img.shields.io/badge/Robotics-1E1E1E?style=for-the-badge"/>
 
 </p>
+
+
 ---
 
 ## Projects
