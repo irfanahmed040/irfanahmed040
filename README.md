@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/HuggingFace-1E1E1E?style=for-the-badge&logo=huggingface"/>
 <img src="https://img.shields.io/badge/Deep_Learning-1E1E1E?style=for-the-badge&logo=pytorch"/>
 
-<img src="https://img.shields.io/badge/n8n-1E1E1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-1E1E1E?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
 <img src="https://img.shields.io/badge/Automation-1E1E1E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/API-1E1E1E?style=for-the-badge"/>
 
