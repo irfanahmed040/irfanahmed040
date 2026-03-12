@@ -36,26 +36,23 @@ Artificial Intelligence Student | AI Automation Developer | LangChain & LLM Enth
 <p>
 
 <img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c"/>
-<img src="https://img.shields.io/badge/SQL-1E1E1E?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/Machine_Learning-1E1E1E?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
 <img src="https://img.shields.io/badge/LangChain-1E1E1E?style=for-the-badge&logo=chainlink"/>
 <img src="https://img.shields.io/badge/HuggingFace-1E1E1E?style=for-the-badge&logo=huggingface"/>
-<img src="https://img.shields.io/badge/DeepLearning-1E1E1E?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker"/>
 <img src="https://img.shields.io/badge/n8n-1E1E1E?style=for-the-badge&logo=n8n"/>
 <img src="https://img.shields.io/badge/Automation-1E1E1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Arduino-1E1E1E?style=for-the-badge&logo=arduino"/>
+<img src="https://img.shields.io/badge/Robotics-1E1E1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c"/>
 <img src="https://img.shields.io/badge/Java-1E1E1E?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
 <img src="https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Machine_Learning-1E1E1E?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/DeepLearning-1E1E1E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PowerBI-1E1E1E?style=for-the-badge&logo=powerbi"/>
-
-<img src="https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker"/>
 <img src="https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/badge/Arduino-1E1E1E?style=for-the-badge&logo=arduino"/>
-<img src="https://img.shields.io/badge/Robotics-1E1E1E?style=for-the-badge"/>
 
 </p>
 
