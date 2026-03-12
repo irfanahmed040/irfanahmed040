@@ -39,7 +39,7 @@ Artificial Intelligence Student | AI Automation Developer | LangChain & LLM Enth
 <img src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c"/>
 <img src="https://img.shields.io/badge/SQL-1E1E1E?style=for-the-badge&logo=postgresql"/>
 <img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript"/>
-
+<img src="https://img.shields.io/badge/Machine_Learning-1E1E1E?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
 <img src="https://img.shields.io/badge/LangChain-1E1E1E?style=for-the-badge&logo=chainlink"/>
 <img src="https://img.shields.io/badge/HuggingFace-1E1E1E?style=for-the-badge&logo=huggingface"/>
 <img src="https://img.shields.io/badge/DeepLearning-1E1E1E?style=for-the-badge"/>
