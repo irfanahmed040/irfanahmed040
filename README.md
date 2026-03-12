@@ -30,33 +30,32 @@
 
 ## Tech Stack
 
+## Tech Stack
+
 <p>
 
-<img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c"/>
-<img src="https://img.shields.io/badge/SQL-1E1E1E?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+<img src="https://img.shields.io/badge/SQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+<img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-<img src="https://img.shields.io/badge/LangChain-1E1E1E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM-1E1E1E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-1E1E1E?style=for-the-badge&logo=huggingface"/>
-<img src="https://img.shields.io/badge/Deep_Learning-1E1E1E?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/LangChain-1E1E1E?style=for-the-badge&logo=chainlink&logoColor=2A5ADA"/>
+<img src="https://img.shields.io/badge/HuggingFace-1E1E1E?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/PyTorch-1E1E1E?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
 
 <img src="https://img.shields.io/badge/n8n-1E1E1E?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
-<img src="https://img.shields.io/badge/Automation-1E1E1E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API-1E1E1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-1E1E1E?style=for-the-badge&logo=fastapi&logoColor=009688"/>
 
-<img src="https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/PowerBI-1E1E1E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/PowerBI-1E1E1E?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Arduino-1E1E1E?style=for-the-badge&logo=arduino"/>
-<img src="https://img.shields.io/badge/Robotics-1E1E1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Arduino-1E1E1E?style=for-the-badge&logo=arduino&logoColor=00979D"/>
+<img src="https://img.shields.io/badge/RaspberryPi-1E1E1E?style=for-the-badge&logo=raspberrypi&logoColor=A22846"/>
 
 </p>
-
 ---
 
 ## Projects
