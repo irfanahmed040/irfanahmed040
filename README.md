@@ -58,17 +58,16 @@ Artificial Intelligence Student | AI Automation Developer | LangChain & LLM Enth
 
 <hr>
 
-<h2>Projects</h2>
+<!-- <h2>Projects</h2>
 
 <ul>
 <li>AI Automation Blog Pipeline using n8n</li>
 <li>Generative AI Chatbot (Llama 3 + Gradio)</li>
 <li>Thyroid Cancer Detection using Deep Learning (Springer Publication)</li>
-<li>Robotic Arm Color Sorting System</li>
-<li>Power BI Sales Dashboard</li>
+<li</li>
 </ul>
 
-<hr>
+<hr> -->
 
 <!-- <h2>GitHub Stats</h2>
 
