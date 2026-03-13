@@ -70,7 +70,7 @@ Artificial Intelligence Student | AI Automation Developer | LangChain & LLM Enth
 
 <hr>
 
-<h2>GitHub Stats</h2>
+<!-- <h2>GitHub Stats</h2>
 
 <p align="center">
 
@@ -80,7 +80,7 @@ Artificial Intelligence Student | AI Automation Developer | LangChain & LLM Enth
 
 </p>
 
-<hr>
+<hr> -->
 
 <h2>Current Focus</h2>
 
