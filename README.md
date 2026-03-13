@@ -10,7 +10,7 @@ Artificial Intelligence Student | AI Automation Developer | LangChain & LLM Enth
 <img src="https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="[https://linkedin.com](https://www.linkedin.com/in/irfan-mohammed-ahmed-826306201/)">
 <img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
