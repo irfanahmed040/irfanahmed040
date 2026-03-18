@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Irfan Mohammed Ahmed</h1>
 
 <h3 align="center"> 
-Artificial Intelligence Student | AI Automation Developer | LangChain & LLM Enthusiast
+Artificial Intelligence Student | AI Automations Developer | LangChain & LLM Enthusiast
 </h3>
 
 <p align="center">
